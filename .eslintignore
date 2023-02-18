@@ -1,0 +1,9 @@
+*.sh
+node_modules
+dist
+*.md
+.vscode
+/docs
+.husky
+.local
+/bin
